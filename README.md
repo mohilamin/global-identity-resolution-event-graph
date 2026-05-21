@@ -283,4 +283,3 @@ Created synthetic multi-channel events, identity signals, deterministic and prob
 ### Result
 
 Produced a reproducible portfolio project that demonstrates FAANG-relevant data engineering skills in event-scale identity resolution, attribution, graph analytics, and trust infrastructure.
-
