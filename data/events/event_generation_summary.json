@@ -1,0 +1,15 @@
+{
+  "all_events": 300000,
+  "web_page_view_events.csv": 96121,
+  "mobile_app_events.csv": 41798,
+  "ad_click_events.csv": 41983,
+  "signup_events.csv": 18014,
+  "login_events.csv": 32931,
+  "purchase_events.csv": 24103,
+  "subscription_events.csv": 11949,
+  "payment_events.csv": 12053,
+  "support_ticket_events.csv": 9061,
+  "account_recovery_events.csv": 2984,
+  "device_change_events.csv": 5936,
+  "cookie_reset_events.csv": 3067
+}

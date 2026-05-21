@@ -1,0 +1,13 @@
+deterministic_rules:
+  same_verified_email_hash: 0.99
+  same_verified_phone_hash: 0.98
+  same_payment_instrument: 0.96
+  login_cookie_to_known_user: 0.95
+  account_recovery_support_link: 0.94
+probabilistic_rules:
+  same_device_close_time: 0.78
+  same_ip_browser_fingerprint: 0.74
+  session_continuity: 0.82
+  geo_region_similarity: 0.65
+  campaign_to_signup_continuity: 0.70
+

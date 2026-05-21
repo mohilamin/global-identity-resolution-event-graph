@@ -1,0 +1,7 @@
+event_sources:
+  - web
+  - mobile
+  - ads
+  - payments
+  - support
+

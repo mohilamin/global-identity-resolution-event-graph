@@ -1,0 +1,2 @@
+identity_cluster_count,average_cluster_size,deterministic_match_rate,probabilistic_match_rate,high_confidence_link_rate,low_confidence_link_rate,identity_resolution_quality_score
+20000,6.907,0.6931,0.3069,0.7902,0.0488,91.5

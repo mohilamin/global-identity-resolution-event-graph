@@ -1,0 +1,10 @@
+weights:
+  email: 0.25
+  phone: 0.20
+  payment: 0.20
+  device: 0.12
+  cookie: 0.08
+  session: 0.08
+  ip_fingerprint: 0.05
+  geo: 0.02
+

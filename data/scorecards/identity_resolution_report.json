@@ -1,0 +1,9 @@
+{
+  "identity_cluster_count": 20000,
+  "average_cluster_size": 6.907,
+  "deterministic_match_rate": 0.6931,
+  "probabilistic_match_rate": 0.3069,
+  "high_confidence_link_rate": 0.7902,
+  "low_confidence_link_rate": 0.0488,
+  "identity_resolution_quality_score": 91.5
+}

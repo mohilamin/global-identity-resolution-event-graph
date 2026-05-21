@@ -1,0 +1,11 @@
+cluster_id,suspicious_pattern,involved_node_count,involved_identity_count,evidence,fraud_risk_score,recommended_action
+suspicious_payment_001,shared_payment_method_across_many_identities,7,6,pay_shared_000,86,Review shared payment relationship and require step-up verification.
+suspicious_payment_002,shared_payment_method_across_many_identities,7,6,pay_shared_001,86,Review shared payment relationship and require step-up verification.
+suspicious_payment_003,shared_payment_method_across_many_identities,7,6,pay_shared_002,86,Review shared payment relationship and require step-up verification.
+suspicious_payment_004,shared_payment_method_across_many_identities,7,6,pay_shared_003,86,Review shared payment relationship and require step-up verification.
+suspicious_payment_005,shared_payment_method_across_many_identities,7,6,pay_shared_004,86,Review shared payment relationship and require step-up verification.
+suspicious_payment_006,shared_payment_method_across_many_identities,7,6,pay_shared_005,86,Review shared payment relationship and require step-up verification.
+suspicious_payment_007,shared_payment_method_across_many_identities,7,6,pay_shared_006,86,Review shared payment relationship and require step-up verification.
+suspicious_payment_008,shared_payment_method_across_many_identities,7,6,pay_shared_007,86,Review shared payment relationship and require step-up verification.
+suspicious_payment_009,shared_payment_method_across_many_identities,7,6,pay_shared_008,86,Review shared payment relationship and require step-up verification.
+suspicious_payment_010,shared_payment_method_across_many_identities,7,6,pay_shared_009,86,Review shared payment relationship and require step-up verification.

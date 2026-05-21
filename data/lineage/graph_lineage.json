@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "profiles",
+    "events",
+    "ground_truth"
+  ],
+  "transformations": [
+    "session_stitching",
+    "deterministic_matching",
+    "probabilistic_matching",
+    "cluster_building",
+    "attribution_path_building",
+    "suspicious_cluster_detection"
+  ],
+  "outputs": [
+    "identity_nodes",
+    "identity_edges",
+    "identity_clusters",
+    "scorecards"
+  ]
+}

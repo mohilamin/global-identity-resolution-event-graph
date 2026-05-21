@@ -1,0 +1,16 @@
+node_types:
+  - real_identity
+  - known_user
+  - anonymous_user
+  - device
+  - cookie
+  - email
+  - phone
+  - payment_instrument
+  - ip
+  - browser_fingerprint
+  - session
+  - support_account
+  - campaign
+  - conversion
+

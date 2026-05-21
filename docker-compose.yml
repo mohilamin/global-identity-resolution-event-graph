@@ -1,0 +1,21 @@
+services:
+  identity-graph:
+    build: .
+    command: python -m src.pipeline.run_all
+    volumes:
+      - .:/app
+  api:
+    build: .
+    command: uvicorn src.api.main:app --host 0.0.0.0 --port 8000
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
+  dashboard:
+    build: .
+    command: streamlit run src/dashboard/app.py --server.address 0.0.0.0
+    ports:
+      - "8501:8501"
+    volumes:
+      - .:/app
+

@@ -1,0 +1,2 @@
+"""Scorecard generators."""
+

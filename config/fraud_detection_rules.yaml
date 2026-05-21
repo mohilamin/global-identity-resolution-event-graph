@@ -1,0 +1,6 @@
+shared_payment_identity_threshold: 6
+device_account_threshold: 8
+ip_fingerprint_account_threshold: 10
+rapid_signup_minutes: 15
+rapid_signup_threshold: 12
+

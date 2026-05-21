@@ -1,0 +1,5 @@
+{
+  "suspicious_cluster_count": 10,
+  "average_fraud_risk_score": 86.0,
+  "top_pattern": "shared_payment_method_across_many_identities"
+}

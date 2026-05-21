@@ -1,0 +1,12 @@
+{
+  "known_users": 20000,
+  "anonymous_users": 30000,
+  "devices": 32000,
+  "cookies": 38000,
+  "emails": 20000,
+  "phones": 20000,
+  "payment_instruments": 22500,
+  "ip_addresses": 26000,
+  "browser_fingerprints": 28000,
+  "support_accounts": 10000
+}

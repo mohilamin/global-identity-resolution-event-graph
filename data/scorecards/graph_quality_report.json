@@ -1,0 +1,8 @@
+{
+  "node_count": 361572.0,
+  "edge_count": 114036.0,
+  "identity_cluster_count": 20000.0,
+  "average_cluster_size": 6.9074,
+  "graph_connected_component_count": 20000.0,
+  "graph_quality_score": 90.2
+}

@@ -1,0 +1,9 @@
+{
+  "expected_ground_truth_links": 100000,
+  "resolved_link_count": 114036,
+  "deterministic_link_count": 79036,
+  "high_confidence_link_count": 90115,
+  "match_precision_estimate": 0.962,
+  "match_recall_estimate": 0.7904,
+  "matching_accuracy_score": 93.1
+}

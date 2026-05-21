@@ -1,0 +1,8 @@
+project_name: Global Identity Resolution & Attribution Event Graph
+random_seed: 42
+real_identity_count: 20000
+target_event_count: 300000
+high_confidence_threshold: 0.85
+probabilistic_threshold: 0.72
+session_gap_minutes: 30
+
